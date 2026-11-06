@@ -1,0 +1,51 @@
+# Power BI files
+*.pbix
+*.pbip
+*.pbi/
+*.pbit.bak
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.old
+~$*
+
+# Data files (avoid uploading raw datasets)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Credentials and configuration
+.env
+.env.*
+!.env.example
+*.credentials
+
+# Power BI local cache
+.cache/
+.cache*
+AnalysisServicesWorkspaces/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Python cache (if Python scripts are added later)
+__pycache__/
+*.py[cod]
+.pytest_cache/
