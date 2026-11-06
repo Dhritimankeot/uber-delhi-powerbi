@@ -344,30 +344,8 @@ The analysis highlights several important observations:
 
 ---
 
-## 9. Repository Structure
 
-```text
-Uber-Booking-Performance-Analysis/
-│
-├── Report/
-│   └── taxi_project.pbit
-│
-├── images/
-│   ├── homepage.png
-│   ├── overview.png
-│   ├── vehicle_type.png
-│   ├── revenue.png
-│   ├── cancellation.png
-│   ├── duplicate_booking.png
-│   ├── reviews.png
-│   └── summary.png
-│
-└── README.md
-```
-
----
-
-## 10. How to Access the Project
+## 9. How to Access the Project
 
 ### Prerequisites
 
@@ -398,7 +376,7 @@ Report/taxi_project.pbit
 
 ---
 
-## 11. Project Learning Outcomes
+## 10. Project Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -413,7 +391,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 12. Future Enhancements
+## 11. Future Enhancements
 
 Potential improvements to the project include:
 
